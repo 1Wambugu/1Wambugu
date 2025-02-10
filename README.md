@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1Wambugu
-- 👀 I’m interested in front and back-end developer
-- 🌱 I’m currently learning software Engineering | Data Visualization
-- 💞️ I’m looking to collaborate on React,Ruby on Rails and Vue Projects 
+- 👀 front and back-end developer
+- 🌱 I’m currently Working as a software Developer(Backend)
+- 💞️ I’m looking to collaborate on Nodejs,Python and Vue Projects 
 - 📫 How to reach me: through martingakuya@gmail.com
   
 
